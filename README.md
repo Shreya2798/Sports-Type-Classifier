@@ -102,4 +102,4 @@ After Heatmap
 ![Heatmap](https://github.com/anubhavmaity/Sports-Type-Classifier/blob/master/readme_images/heat_cric.png)
 
 
-Have removed the images data and model repository. You can download the images with the help of the gi2ds. 
+You can download the images with the help of the gi2ds. 
